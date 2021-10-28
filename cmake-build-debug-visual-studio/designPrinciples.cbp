@@ -82,6 +82,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.cpp">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.h">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/InterfaceSegPrinc.cpp">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/InterfaceSegPrinc.h">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.cpp">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.h">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/OpenClosed.cpp">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/OpenClosed.h">
+			<Option target="designPrinciples"/>
+		</Unit>
 		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/main.cpp">
 			<Option target="designPrinciples"/>
 		</Unit>

@@ -1,6 +1,14 @@
 #include <iostream>
+#include <vector>
+
+#include "SOLID/OpenClosed.h"
+#include "SOLID/LiskovSubPrinc.cpp"
+#include "SOLID/InterfaceSegPrinc.h"
+#include "SOLID/DependancyInversionPrinc.h"
+
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
     return 0;
 }

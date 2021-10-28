@@ -1,0 +1,14 @@
+//
+// Created by David on 28/10/2021.
+//
+
+#ifndef DESIGNPRINCIPLES_OPENCLOSED_H
+#define DESIGNPRINCIPLES_OPENCLOSED_H
+
+
+class OpenClosed {
+
+};
+
+
+#endif //DESIGNPRINCIPLES_OPENCLOSED_H

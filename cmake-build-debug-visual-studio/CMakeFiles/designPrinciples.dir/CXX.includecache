@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/main.cpp
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.cpp
+DependancyInversionPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.h
 iostream
 -
+vector
+-
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.h
 

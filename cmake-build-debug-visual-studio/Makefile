@@ -118,6 +118,102 @@ designPrinciples\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\build
 .PHONY : designPrinciples\fast
 
+SOLID\DependancyInversionPrinc.obj: SOLID\DependancyInversionPrinc.cpp.obj
+.PHONY : SOLID\DependancyInversionPrinc.obj
+
+# target to build an object file
+SOLID\DependancyInversionPrinc.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\DependancyInversionPrinc.cpp.obj
+.PHONY : SOLID\DependancyInversionPrinc.cpp.obj
+
+SOLID\DependancyInversionPrinc.i: SOLID\DependancyInversionPrinc.cpp.i
+.PHONY : SOLID\DependancyInversionPrinc.i
+
+# target to preprocess a source file
+SOLID\DependancyInversionPrinc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\DependancyInversionPrinc.cpp.i
+.PHONY : SOLID\DependancyInversionPrinc.cpp.i
+
+SOLID\DependancyInversionPrinc.s: SOLID\DependancyInversionPrinc.cpp.s
+.PHONY : SOLID\DependancyInversionPrinc.s
+
+# target to generate assembly for a file
+SOLID\DependancyInversionPrinc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\DependancyInversionPrinc.cpp.s
+.PHONY : SOLID\DependancyInversionPrinc.cpp.s
+
+SOLID\InterfaceSegPrinc.obj: SOLID\InterfaceSegPrinc.cpp.obj
+.PHONY : SOLID\InterfaceSegPrinc.obj
+
+# target to build an object file
+SOLID\InterfaceSegPrinc.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\InterfaceSegPrinc.cpp.obj
+.PHONY : SOLID\InterfaceSegPrinc.cpp.obj
+
+SOLID\InterfaceSegPrinc.i: SOLID\InterfaceSegPrinc.cpp.i
+.PHONY : SOLID\InterfaceSegPrinc.i
+
+# target to preprocess a source file
+SOLID\InterfaceSegPrinc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\InterfaceSegPrinc.cpp.i
+.PHONY : SOLID\InterfaceSegPrinc.cpp.i
+
+SOLID\InterfaceSegPrinc.s: SOLID\InterfaceSegPrinc.cpp.s
+.PHONY : SOLID\InterfaceSegPrinc.s
+
+# target to generate assembly for a file
+SOLID\InterfaceSegPrinc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\InterfaceSegPrinc.cpp.s
+.PHONY : SOLID\InterfaceSegPrinc.cpp.s
+
+SOLID\LiskovSubPrinc.obj: SOLID\LiskovSubPrinc.cpp.obj
+.PHONY : SOLID\LiskovSubPrinc.obj
+
+# target to build an object file
+SOLID\LiskovSubPrinc.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\LiskovSubPrinc.cpp.obj
+.PHONY : SOLID\LiskovSubPrinc.cpp.obj
+
+SOLID\LiskovSubPrinc.i: SOLID\LiskovSubPrinc.cpp.i
+.PHONY : SOLID\LiskovSubPrinc.i
+
+# target to preprocess a source file
+SOLID\LiskovSubPrinc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\LiskovSubPrinc.cpp.i
+.PHONY : SOLID\LiskovSubPrinc.cpp.i
+
+SOLID\LiskovSubPrinc.s: SOLID\LiskovSubPrinc.cpp.s
+.PHONY : SOLID\LiskovSubPrinc.s
+
+# target to generate assembly for a file
+SOLID\LiskovSubPrinc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\LiskovSubPrinc.cpp.s
+.PHONY : SOLID\LiskovSubPrinc.cpp.s
+
+SOLID\OpenClosed.obj: SOLID\OpenClosed.cpp.obj
+.PHONY : SOLID\OpenClosed.obj
+
+# target to build an object file
+SOLID\OpenClosed.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.obj
+.PHONY : SOLID\OpenClosed.cpp.obj
+
+SOLID\OpenClosed.i: SOLID\OpenClosed.cpp.i
+.PHONY : SOLID\OpenClosed.i
+
+# target to preprocess a source file
+SOLID\OpenClosed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.i
+.PHONY : SOLID\OpenClosed.cpp.i
+
+SOLID\OpenClosed.s: SOLID\OpenClosed.cpp.s
+.PHONY : SOLID\OpenClosed.s
+
+# target to generate assembly for a file
+SOLID\OpenClosed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.s
+.PHONY : SOLID\OpenClosed.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -151,6 +247,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... designPrinciples
+	@echo ... SOLID/DependancyInversionPrinc.obj
+	@echo ... SOLID/DependancyInversionPrinc.i
+	@echo ... SOLID/DependancyInversionPrinc.s
+	@echo ... SOLID/InterfaceSegPrinc.obj
+	@echo ... SOLID/InterfaceSegPrinc.i
+	@echo ... SOLID/InterfaceSegPrinc.s
+	@echo ... SOLID/LiskovSubPrinc.obj
+	@echo ... SOLID/LiskovSubPrinc.i
+	@echo ... SOLID/LiskovSubPrinc.s
+	@echo ... SOLID/OpenClosed.obj
+	@echo ... SOLID/OpenClosed.i
+	@echo ... SOLID/OpenClosed.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

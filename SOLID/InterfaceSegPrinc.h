@@ -1,0 +1,15 @@
+//
+// Created by David on 28/10/2021.
+//
+
+#ifndef DESIGNPRINCIPLES_INTERFACESEGPRINC_H
+#define DESIGNPRINCIPLES_INTERFACESEGPRINC_H
+
+
+class InterfaceSegPrinc {
+
+};
+
+
+
+#endif //DESIGNPRINCIPLES_INTERFACESEGPRINC_H
