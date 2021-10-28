@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/cmake-build-debug-visual-studio/CMakeFiles/designPrinciples.dir/embed.manifest"

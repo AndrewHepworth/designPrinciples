@@ -1,0 +1,13 @@
+C:\Users\David\AppData\Local\JetBrains\CLion2021.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/David/Docs/clion/starter
+-- The CXX compiler identification is unknown
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/David/Docs/clion/starter/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/David/Docs/clion/starter/cmake-build-debug/CMakeFiles/CMakeError.log".
