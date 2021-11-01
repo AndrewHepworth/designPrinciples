@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.cpp" "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/cmake-build-debug-visual-studio/CMakeFiles/designPrinciples.dir/Builder/builder.cpp.obj"
   "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.cpp" "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/cmake-build-debug-visual-studio/CMakeFiles/designPrinciples.dir/SOLID/DependancyInversionPrinc.cpp.obj"
   "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/InterfaceSegPrinc.cpp" "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/cmake-build-debug-visual-studio/CMakeFiles/designPrinciples.dir/SOLID/InterfaceSegPrinc.cpp.obj"
   "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.cpp" "C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/cmake-build-debug-visual-studio/CMakeFiles/designPrinciples.dir/SOLID/LiskovSubPrinc.cpp.obj"

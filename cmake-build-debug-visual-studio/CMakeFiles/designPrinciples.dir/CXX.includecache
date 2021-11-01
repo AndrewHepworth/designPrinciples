@@ -6,13 +6,43 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.cpp
-DependancyInversionPrinc.h
-C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.cpp
+builder.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.h
 iostream
 -
 vector
 -
 
-C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/DependancyInversionPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.h
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.h
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/InterfaceSegPrinc.h
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.cpp
+LiskovSubPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.h
+iostream
+-
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.h
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/OpenClosed.h
+
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/main.cpp
+iostream
+-
+vector
+-
+SOLID/OpenClosed.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/OpenClosed.h
+SOLID/LiskovSubPrinc.cpp
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/LiskovSubPrinc.cpp
+SOLID/InterfaceSegPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/InterfaceSegPrinc.h
+SOLID/DependancyInversionPrinc.h
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.h
+Builder/builder.cpp
+C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.cpp
 

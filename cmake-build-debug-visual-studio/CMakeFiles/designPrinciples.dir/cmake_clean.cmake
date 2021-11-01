@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/designPrinciples.dir/Builder/builder.cpp.obj"
   "CMakeFiles/designPrinciples.dir/SOLID/DependancyInversionPrinc.cpp.obj"
   "CMakeFiles/designPrinciples.dir/SOLID/InterfaceSegPrinc.cpp.obj"
   "CMakeFiles/designPrinciples.dir/SOLID/LiskovSubPrinc.cpp.obj"

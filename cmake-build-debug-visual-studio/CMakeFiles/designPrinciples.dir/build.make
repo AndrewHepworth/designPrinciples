@@ -150,13 +150,33 @@ CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.s /c C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\SOLID\OpenClosed.cpp
 <<
 
+CMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj: CMakeFiles\designPrinciples.dir\flags.make
+CMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj: ..\Builder\builder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/designPrinciples.dir/Builder/builder.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj /FdCMakeFiles\designPrinciples.dir\ /FS -c C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\Builder\builder.cpp
+<<
+
+CMakeFiles\designPrinciples.dir\Builder\builder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/designPrinciples.dir/Builder/builder.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe > CMakeFiles\designPrinciples.dir\Builder\builder.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\Builder\builder.cpp
+<<
+
+CMakeFiles\designPrinciples.dir\Builder\builder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/designPrinciples.dir/Builder/builder.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\designPrinciples.dir\Builder\builder.cpp.s /c C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\Builder\builder.cpp
+<<
+
 # Object files for target designPrinciples
 designPrinciples_OBJECTS = \
 "CMakeFiles\designPrinciples.dir\main.cpp.obj" \
 "CMakeFiles\designPrinciples.dir\SOLID\LiskovSubPrinc.cpp.obj" \
 "CMakeFiles\designPrinciples.dir\SOLID\InterfaceSegPrinc.cpp.obj" \
 "CMakeFiles\designPrinciples.dir\SOLID\DependancyInversionPrinc.cpp.obj" \
-"CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.obj"
+"CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.obj" \
+"CMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj"
 
 # External object files for target designPrinciples
 designPrinciples_EXTERNAL_OBJECTS =
@@ -166,9 +186,10 @@ designPrinciples.exe: CMakeFiles\designPrinciples.dir\SOLID\LiskovSubPrinc.cpp.o
 designPrinciples.exe: CMakeFiles\designPrinciples.dir\SOLID\InterfaceSegPrinc.cpp.obj
 designPrinciples.exe: CMakeFiles\designPrinciples.dir\SOLID\DependancyInversionPrinc.cpp.obj
 designPrinciples.exe: CMakeFiles\designPrinciples.dir\SOLID\OpenClosed.cpp.obj
+designPrinciples.exe: CMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj
 designPrinciples.exe: CMakeFiles\designPrinciples.dir\build.make
 designPrinciples.exe: CMakeFiles\designPrinciples.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable designPrinciples.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable designPrinciples.exe"
 	"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\designPrinciples.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\designPrinciples.dir\objects1.rsp @<<
  /out:designPrinciples.exe /implib:designPrinciples.lib /pdb:C:\Users\David\Work\cygwin64\home\David\Docs\clion\designPrinciples\cmake-build-debug-visual-studio\designPrinciples.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

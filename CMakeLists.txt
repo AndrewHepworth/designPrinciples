@@ -3,4 +3,4 @@ project(designPrinciples)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(designPrinciples main.cpp SOLID/LiskovSubPrinc.cpp SOLID/LiskovSubPrinc.h SOLID/InterfaceSegPrinc.cpp SOLID/InterfaceSegPrinc.h SOLID/DependancyInversionPrinc.cpp SOLID/DependancyInversionPrinc.h SOLID/OpenClosed.cpp SOLID/OpenClosed.h)
+add_executable(designPrinciples main.cpp SOLID/LiskovSubPrinc.cpp SOLID/LiskovSubPrinc.h SOLID/InterfaceSegPrinc.cpp SOLID/InterfaceSegPrinc.h SOLID/DependancyInversionPrinc.cpp SOLID/DependancyInversionPrinc.h SOLID/OpenClosed.cpp SOLID/OpenClosed.h Builder/builder.cpp Builder/builder.h)

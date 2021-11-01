@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.cpp">
+			<Option target="designPrinciples"/>
+		</Unit>
+		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/Builder/builder.h">
+			<Option target="designPrinciples"/>
+		</Unit>
 		<Unit filename="C:/Users/David/Work/cygwin64/home/David/Docs/clion/designPrinciples/SOLID/DependancyInversionPrinc.cpp">
 			<Option target="designPrinciples"/>
 		</Unit>

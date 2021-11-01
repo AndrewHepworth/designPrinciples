@@ -118,6 +118,30 @@ designPrinciples\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\build
 .PHONY : designPrinciples\fast
 
+Builder\builder.obj: Builder\builder.cpp.obj
+.PHONY : Builder\builder.obj
+
+# target to build an object file
+Builder\builder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\Builder\builder.cpp.obj
+.PHONY : Builder\builder.cpp.obj
+
+Builder\builder.i: Builder\builder.cpp.i
+.PHONY : Builder\builder.i
+
+# target to preprocess a source file
+Builder\builder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\Builder\builder.cpp.i
+.PHONY : Builder\builder.cpp.i
+
+Builder\builder.s: Builder\builder.cpp.s
+.PHONY : Builder\builder.s
+
+# target to generate assembly for a file
+Builder\builder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\designPrinciples.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\designPrinciples.dir\Builder\builder.cpp.s
+.PHONY : Builder\builder.cpp.s
+
 SOLID\DependancyInversionPrinc.obj: SOLID\DependancyInversionPrinc.cpp.obj
 .PHONY : SOLID\DependancyInversionPrinc.obj
 
@@ -247,6 +271,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... designPrinciples
+	@echo ... Builder/builder.obj
+	@echo ... Builder/builder.i
+	@echo ... Builder/builder.s
 	@echo ... SOLID/DependancyInversionPrinc.obj
 	@echo ... SOLID/DependancyInversionPrinc.i
 	@echo ... SOLID/DependancyInversionPrinc.s
